@@ -1,0 +1,17 @@
+{
+    "description": "", 
+    "edtf:inception": "uuuu", 
+    "fullname": "SFO GIS Department", 
+    "id": 1360391221, 
+    "key": "", 
+    "license": "", 
+    "license_text": "", 
+    "license_type": "CDLA", 
+    "mz_associated": 0, 
+    "name": "sfogis", 
+    "prefix": "sfogis", 
+    "url": "https://flysfo.com/", 
+    "usage_concordance": 0, 
+    "usage_geometry": 1, 
+    "usage_property": 1
+}
